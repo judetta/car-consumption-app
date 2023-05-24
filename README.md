@@ -2,17 +2,6 @@
 *and approved with full grade. The below is the original course work documentation.*
 
 ---
-**Table of contents**
-* [Car Consumption App](#car-consumption-app)
-  * [Requirements](#requirements)
-  * [Implementation](#implementation)
-    * [Tech](#tech)
-    * [Features and components](#features-and-components)
-  * [Deployment](#deployment)
-* [Assignment recap](#assignment-recap)
-  * [Time reporting](#time-reporting)
-  * [Final thoughts and grade proposal](#final-thoughts-and-grade-proposal)
----
 
 # Car Consumption App
 
