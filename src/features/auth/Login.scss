@@ -1,0 +1,30 @@
+.Login {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  width: 300px;
+
+  .input {
+    margin-top: 1rem;
+    width: 100%;
+  }
+
+  .button {
+    margin-top: 1rem;
+    width: 100%;
+  }
+
+  p:last-of-type {
+    margin-top: 2rem;
+    margin-bottom: 0;
+  }
+
+  .alert {
+    width: 90%;
+    margin-top: 1rem;
+    border-radius: 5px;
+  }
+}

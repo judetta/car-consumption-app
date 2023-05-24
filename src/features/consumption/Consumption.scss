@@ -1,0 +1,37 @@
+.Consumption {
+  padding: 1rem;
+  min-width: 300px;
+  text-align: center;
+
+  .row {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-end;
+
+    .add-button {
+      margin-left: 0.5rem;
+    }
+  }
+
+  .car-select {
+    font-weight: bold;
+  }
+
+  .MuiTableContainer-root, .MuiPaper-root {
+    margin: auto;
+    margin-top: 1rem;
+
+    .MuiIconButton-root {
+      padding: 0;
+    }
+
+    .MuiTablePagination-displayedRows {
+      margin: 0;
+    }
+
+    .MuiTablePagination-actions {
+      margin-right: 1rem;
+    }
+  }
+}
